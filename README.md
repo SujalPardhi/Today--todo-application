@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Today - Flutter To-Do App
 
 A clean and minimal Flutter To-Do application designed as a productivity-focused mobile experience.
@@ -158,3 +159,7 @@ pubspec.yaml is the configuration file for a Flutter project. It specifies proje
 - Tasks may reset when the app is completely restarted
 - No backend/database is used for persistence
 - No cloud synchronization or backup functionality
+=======
+# Today--todo-app
+It is the Flutter based todo application
+>>>>>>> bd82845000bdb316d47b999235c669b875906277
