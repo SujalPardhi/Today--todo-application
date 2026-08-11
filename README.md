@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Today - Flutter To-Do App
 
 A clean and minimal Flutter To-Do application designed as a productivity-focused mobile experience.
@@ -151,15 +150,12 @@ pubspec.yaml is the configuration file for a Flutter project. It specifies proje
 
 **Question 6: Which Flutter project or feature have you worked on that you are most proud of, and what was your contribution?**
 
-[Add your actual Flutter project and contribution here.]
+I’m proud of working on **ShoeZone, a Flutter Shoes e-commerce app**. I worked mainly on the UI, product listing, product details, cart, and navigation.
+
+
 
 ## Limitations
 
-- Task data is currently stored in memory only
-- Tasks may reset when the app is completely restarted
+- Task data is currently stored using shared_preferences package
 - No backend/database is used for persistence
 - No cloud synchronization or backup functionality
-=======
-# Today--todo-app
-It is the Flutter based todo application
->>>>>>> bd82845000bdb316d47b999235c669b875906277
